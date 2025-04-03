@@ -3,6 +3,9 @@
 A simple **Spring Boot REST API** for managing Students, Professors, Subjects, and Admission Records.  
 Designed to handle academic workflows efficiently with **Spring Boot**, **JPA**, and **Hibernate**.
 
+![Screenshot (606)](https://github.com/user-attachments/assets/81569c0a-ac9d-4c09-b333-439ddff18aa6)
+
+
 ---
 
 ## 📚 Features
